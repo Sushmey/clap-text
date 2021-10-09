@@ -9,7 +9,6 @@ function clapClapClap() {
 }
 function copy(){
 	 var copyText = document.getElementById("gen");
-	 console.log("Bitch!");
   /* Select the text field */
   copyText.select();
   copyText.setSelectionRange(0, 99999); /* For mobile devices */
